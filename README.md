@@ -7,3 +7,6 @@ This repository contains my C implementation of Kruskal's Algorithm for finding 
 ##### Sorting all edges by increasing weight.
 ##### Iteratively adding the smallest edge to the MST, as long as it doesn’t form a cycle.
 ##### Using Disjoint Set Union (Union-Find) to detect cycles.
+
+
+# MATRIX
