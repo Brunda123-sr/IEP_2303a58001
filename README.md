@@ -10,3 +10,9 @@ This repository contains my C implementation of Kruskal's Algorithm for finding 
 
 
 # MATRIX
+This project implements the Matrix Chain Multiplication problem using Dynamic Programming. It determines the most efficient way to multiply a chain of matrices by minimizing the number of scalar multiplications and displaying the optimal parenthesization.
+
+## ALGORITHM OVERVIEW
+##### Dynamic Programming.
+##### Computes minimum multiplication cost using a bottom-up approach.
+##### Builds a cost table and a split table to reconstruct the optimal parenthesization.
